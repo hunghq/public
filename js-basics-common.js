@@ -10,6 +10,3 @@ function log(message) {
         logAppender(message);
     }
 }
-
-log('Hello Console!');
-
